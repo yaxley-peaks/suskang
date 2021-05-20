@@ -1,0 +1,17 @@
+{
+  "name": "susbot",
+  "version": "1.5.0",
+  "description": "when the sus is kang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "yaxley_peaks",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
